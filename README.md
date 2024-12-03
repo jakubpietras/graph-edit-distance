@@ -34,4 +34,4 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ```
-The original code comes from the author's GitHub repository (https://github.com/fuglede/linearassignment?tab=readme-ov-file).
+The original code comes from the author's GitHub repository (https://github.com/fuglede/linearassignment).
