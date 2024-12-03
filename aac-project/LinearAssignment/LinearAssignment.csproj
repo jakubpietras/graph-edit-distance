@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <PackageId>LinearAssignment</PackageId>
+    <Title>Linear assignment problem solver</Title>
+    <Description>C#-only solver for the rectangular linear assignment problem, also known as the minimum weight full matching problem for bipartite graphs. Algorithms used include shortest augmenting path search and cost-scaling pseudoflow based assignment.</Description>
+    <Version>1.2.0</Version>
+    <Authors>fuglede</Authors>
+    <PackageLicenseExpression>BSD-3-Clause</PackageLicenseExpression>
+    <PackageTags>math;optimization;graph-theory;computer-science;algorithm;combinatorics;matching;operations-research;solver</PackageTags>
+    <RepositoryUrl>https://github.com/fuglede/linearassignment</RepositoryUrl>
+  </PropertyGroup>
+</Project>
